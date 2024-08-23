@@ -1,0 +1,3 @@
+
+recursive-include UniBot/templates *
+global-exclude __pycache__ *.py[cod]
